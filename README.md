@@ -35,7 +35,7 @@ to run the app in development mode
 ## Tools
 
 This project was built using **Create-React-App**  
-This project is hosted on **Github Pages [here](https://adityatandon007.github.io/react-redux-shopping-cart)**
+This project is hosted on **Github Pages [here](https://adityatandon007.github.io/react-redux-shopping-cart-app)**
 
 ## :sparkling_heart: Support my projects
 
