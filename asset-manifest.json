@@ -1,11 +1,18 @@
 {
-  "main.css": "static/css/main.664b36e3.css",
-  "main.css.map": "static/css/main.664b36e3.css.map",
-  "main.js": "static/js/main.2c88d072.js",
-  "main.js.map": "static/js/main.2c88d072.js.map",
-  "static/media/fontawesome-webfont.eot": "static/media/fontawesome-webfont.674f50d2.eot",
-  "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
-  "static/media/fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
-  "static/media/fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
-  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff"
+  "files": {
+    "main.css": "/react-redux-shopping-cart-app/static/css/main.ecc204ab.chunk.css",
+    "main.js": "/react-redux-shopping-cart-app/static/js/main.a441e84d.chunk.js",
+    "main.js.map": "/react-redux-shopping-cart-app/static/js/main.a441e84d.chunk.js.map",
+    "runtime~main.js": "/react-redux-shopping-cart-app/static/js/runtime~main.a7f1194d.js",
+    "runtime~main.js.map": "/react-redux-shopping-cart-app/static/js/runtime~main.a7f1194d.js.map",
+    "static/css/2.2c98c60f.chunk.css": "/react-redux-shopping-cart-app/static/css/2.2c98c60f.chunk.css",
+    "static/js/2.f19874fb.chunk.js": "/react-redux-shopping-cart-app/static/js/2.f19874fb.chunk.js",
+    "static/js/2.f19874fb.chunk.js.map": "/react-redux-shopping-cart-app/static/js/2.f19874fb.chunk.js.map",
+    "index.html": "/react-redux-shopping-cart-app/index.html",
+    "precache-manifest.eb9358710981692ba4bb75d46a73b1ea.js": "/react-redux-shopping-cart-app/precache-manifest.eb9358710981692ba4bb75d46a73b1ea.js",
+    "service-worker.js": "/react-redux-shopping-cart-app/service-worker.js",
+    "static/css/2.2c98c60f.chunk.css.map": "/react-redux-shopping-cart-app/static/css/2.2c98c60f.chunk.css.map",
+    "static/css/main.ecc204ab.chunk.css.map": "/react-redux-shopping-cart-app/static/css/main.ecc204ab.chunk.css.map",
+    "static/media/font-awesome.min.css": "/react-redux-shopping-cart-app/static/media/fontawesome-webfont.fee66e71.woff"
+  }
 }
